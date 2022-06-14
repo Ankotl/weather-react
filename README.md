@@ -6,4 +6,10 @@
 
 ***
 
+## Инструкция по запуску приложения
+
+- git clone https://github.com/Ankotl/weather-react.git
+- cd weather-react
+- npm install
+- npm start
 
